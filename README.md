@@ -6,6 +6,7 @@
 + Silent-mode to avoid "flood"
 + Reposts from React.js and Relay blogs
 + Retweets 3 times per days - last tweets from Dan Abramov and React.js Team
++ 1 times per day - short React.js digest?
 + Watch for MoscowJS meetups
 + Statistic and metrics for admins
 + Highlight code as Inline Bot
