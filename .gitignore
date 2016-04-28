@@ -1,0 +1,15 @@
+.DS_Store
+dist
+
+## Directory-based project format:
+.idea/
+
+## Node.js and other logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+node_modules
+
