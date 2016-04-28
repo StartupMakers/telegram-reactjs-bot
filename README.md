@@ -12,6 +12,37 @@
 
 Let's discuss about that: https://telegram.me/react_js
 
+
+## How to make Pull Requests?
+
+1. Fork this repo
+2. Checkout your copy:
+
+  ```bash
+  git clone git@github.com:YourAccount/telegram-reactjs-bot.git
+  ```
+
+3. Create your feature (or issue) branch:
+ 
+  ```bash
+  git checkout -b my-new-feature
+  ```
+
+4. Commit your changes:
+
+  ```bash
+  git commit -am 'Add some changes'
+  ```
+
+5. Push your changes to remote branch:
+
+  ```bash
+  git push origin my-new-feature
+  ```
+
+6. [Create new pull request](https://github.com/StartupMakers/telegram-reactjs-bot/compare)
+
+
 ## Resources
 
 ### Bot Libraries
