@@ -4,7 +4,8 @@
 
 + Welcome message and brief for new users
 + Silent-mode to avoid "flood"
-+ Retweets 3 times per days - last tweets from Dan Abramov
++ Reposts from React.js and Relay blogs
++ Retweets 3 times per days - last tweets from Dan Abramov and React.js Team
 + Watch for MoscowJS meetups
 + Statistic and metrics for admins
 + Highlight code as Inline Bot
