@@ -10,6 +10,7 @@
 + Watch for MoscowJS meetups
 + Statistic and metrics for admins
 + Highlight code as Inline Bot
++ Digest from related Gitter rooms (chat-ua/reactjs, chat-rooms/reactjs, etc)
 
 Let's discuss about that: https://telegram.me/react_js
 
